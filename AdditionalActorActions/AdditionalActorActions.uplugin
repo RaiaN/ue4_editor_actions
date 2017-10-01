@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 31,
+	"VersionName": "4.17.0",
+	"FriendlyName": "Additional Actor Actions",
+	"Description": "Plugin that makes possible to save actors with custom logic as blueprint via child actor components",
+	"Category": "Custom",
+	"CreatedBy": "Peter Leontev (raianknight)",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "AdditionalActorActionsEditor",
+			"Type": "Developer",
+			"LoadingPhase": "Default"
+		}
+	]
+}
