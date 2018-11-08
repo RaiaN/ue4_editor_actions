@@ -1,4 +1,4 @@
-# ue4_AdditionalActorActions
+# ue4_editor_Actions
 This Unreal Engine 4 editor plugin allows one to save selected actors and their components as blueprint actor.
 
 How it works:
