@@ -1,3 +1,4 @@
+// Copyright Peter Leontev
 
 #pragma once
 
