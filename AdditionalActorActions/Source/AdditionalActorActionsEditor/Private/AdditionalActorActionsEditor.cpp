@@ -1,3 +1,5 @@
+// Copyright Peter Leontev
+
 #include "AdditionalActorActionsEditor.h"
 #include "Modules/ModuleManager.h"
 #include "Modules/ModuleInterface.h"
