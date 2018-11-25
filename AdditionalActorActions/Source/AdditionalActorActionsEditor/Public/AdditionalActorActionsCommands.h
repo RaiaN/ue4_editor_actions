@@ -1,3 +1,5 @@
+// Copyright Peter Leontev
+
 #pragma once
 
 #include "CoreMinimal.h"
